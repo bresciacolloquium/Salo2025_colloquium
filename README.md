@@ -19,7 +19,7 @@ I-25123 Brescia Italy
 tel +39.030383424 / 030394544
 mobile +39.335 293501
 
-# Map Points
+# Links to locations
 
 [**Municipio di Salò**](https://maps.app.goo.gl/x9jYHByVeU2F7qpg6)
 (Via Mattia Butturini, 3, 25087 Salò ) is closer to Hotel Vigna (3 minute
