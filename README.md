@@ -2,15 +2,15 @@
 
 [Link to AI Learning Repo](https://github.com/bresciacolloquium/bresciacolloquium_ai_hub)
 
-# Microsoft Teams meeting
+# Microsoft Teams meeting information
+
 Join on your computer, mobile app or room device
 Meeting ID: 332 810 587 361
 Passcode: YLE8FZ
-Download Teams | Join on the web
+
 Or call in (audio only)
 +39 02 3056 4004,,975589022# Italy, Milano
 Phone Conference ID: 975 589 022#
-Find a local number | Reset PIN
 
 # Emergency contact
 Corrado Paganelli
