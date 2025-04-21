@@ -21,7 +21,7 @@ mobile +39.335 293501
 
 # Map Points
 
-{**Municipio di Salò**](https://maps.app.goo.gl/x9jYHByVeU2F7qpg6)
+[**Municipio di Salò**](https://maps.app.goo.gl/x9jYHByVeU2F7qpg6)
 (Via Mattia Butturini, 3, 25087 Salò ) is closer to Hotel Vigna (3 minute
 walk) delegates can meet there and should be by seated by 9.30am Saturday
 
