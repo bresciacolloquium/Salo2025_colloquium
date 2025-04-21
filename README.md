@@ -14,6 +14,7 @@ Phone Conference ID: 975 589 022#
 
 # Emergency contact
 Corrado Paganelli
+
 Dental School - University of Brescia - Pza Spedali Civili I-25123 Brescia Italy
 
 tel +39.030383424 / 030394544 mobile +39.335 293501
