@@ -19,9 +19,12 @@ I-25123 Brescia Italy
 tel +39.030383424 / 030394544
 mobile +39.335 293501
 
-**Municipio di Salò** 
-(Via Mattia Butturini, 3, 25087 Salò ) is closer to Hotel Vigna (3 minute
-walk) delegates can meet there and should be by seated by 9.30am
-https://maps.app.goo.gl/x9jYHByVeU2F7qpg6
+# Map Points
 
-[**Museo di Salo**](https://www.google.co.uk/maps/place/MuSa+-+Museo+di+Salò/@45.607455,10.5214393,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47818e5825817b19:0x36a130de2914b442!2sCity+of+Salò,+Lungolago+Zanardelli,+55,+25087+Salò+BS,+Italy!2m2!1d10.5284827!2d45.6070621!1m6!1m2!1s)
+{**Municipio di Salò**](https://maps.app.goo.gl/x9jYHByVeU2F7qpg6)
+(Via Mattia Butturini, 3, 25087 Salò ) is closer to Hotel Vigna (3 minute
+walk) delegates can meet there and should be by seated by 9.30am Saturday
+
+[**Museo di Salo**](https://maps.app.goo.gl/i5eqxzbkqkShGoCS6)
+MuSa - Museo di Salò
+Via Brunati, 9, 25087 Salò BS, Italy
