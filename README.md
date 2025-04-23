@@ -1,8 +1,10 @@
 # Salo2025_colloquium
 
-[Link to AI Learning Repo](https://github.com/bresciacolloquium/bresciacolloquium_ai_hub)
+[**Link to AI Learning Repo**](https://github.com/bresciacolloquium/bresciacolloquium_ai_hub)
 
-[Link to Deligate Biography and Abstracts](https://github.com/bresciacolloquium/Salo2025_colloquium/blob/main/delegate%20bios%20and%20abstracts.pdf)
+[**Link to Deligate Biography and Abstracts**](https://github.com/bresciacolloquium/Salo2025_colloquium/blob/main/delegate%20bios%20and%20abstracts.pdf)
+
+[**Link to timetable**](https://github.com/bresciacolloquium/Salo2025_colloquium/blob/main/FV%20Timetable%20Brescia%202025.pdf)
 
 # Microsoft Teams meeting information
 
