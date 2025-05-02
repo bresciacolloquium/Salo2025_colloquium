@@ -2,7 +2,7 @@
 
 [**Link to AI Learning Repo**](https://github.com/bresciacolloquium/bresciacolloquium_ai_hub)
 
-[**Link to student share repository](https://github.com/bresciacolloquium/salo2025_studentshare.git)
+[**Link to student share repository**](https://github.com/bresciacolloquium/salo2025_studentshare.git)
 
 [**Link to Deligate Biography and Abstracts**](https://github.com/bresciacolloquium/Salo2025_colloquium/blob/main/delegate%20bios%20and%20abstracts.pdf)
 
